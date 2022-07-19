@@ -3,4 +3,4 @@ The dataset on which the analysis was performed comes from kaggle.com (link: htt
 
 **Which characteristics affect airline passenger satisfaction the most?**
 
-Check out my R script file to find out how it went.
+In order to do that I used K-means and Decision tree algorithms. Check out my R script file to find out how it went :)
